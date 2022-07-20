@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Julie-Odhiambo
+- 👋 Hi, I’m @Julie Odhiambo
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently taking the Data Analysis Career Track on DataCamp.
 - 💞️ I’m looking to collaborate on ...
