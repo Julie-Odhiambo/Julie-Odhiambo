@@ -6,7 +6,7 @@
   I’m Julie, a Biochemist by trainning and a Data Analyst by trade.
 - 🌱 I’m currently taking the Data Analysis Career Track on DataCamp.
 - 📚 Skills: SQL, PowerBI, Advanced Excel, R
-- 👋 How to reach me:
+- 👋 How to reach me: LinkedIn[https://www.linkedin.com/in/julie-analytics/]
 
 #### ❤️ Fun facts about me:
 
