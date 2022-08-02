@@ -3,7 +3,7 @@
 ### About Me
  
 
-  I’m Julie, a Biochemist by trainning and a Data Analyst by trade.
+  I’m Julie, a Biochemist by trainning with 3+ years experience as a transcriptionist and most recently pivoted to Data Analytics.
 - 🌱 I’m currently taking the Data Analysis Career Track on DataCamp. Course contents: SQL, Power BI, Excel and Spreadsheets, Tableau, R, Python.
 - 💡 I am looking for a Data Analyst/BI Analyst role.
 - 📚 Skills: SQL, PowerBI, Advanced Excel, R(Beginner)
