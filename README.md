@@ -8,13 +8,14 @@
 - 💡 I am looking for a Data Analyst/BI Analyst role.
 - 📚 Skills: SQL, PowerBI, Advanced Excel, R(Beginner)
 - 👋 How to reach me: [LinkedIn](https://www.linkedin.com/in/julie-analytics/)
-- View my Power BI dashboards and reports @[NovyPro](https://www.novypro.com/profile_projects/julie-anyango-odhiambo)
+- ✨ View my Power BI dashboards and reports @[NovyPro](https://www.novypro.com/profile_projects/julie-anyango-odhiambo)
 
 #### ❤️ Fun facts about me:
 
 - ❤️ I love hosting game nights in my free time.
 - ✍️ Currently pursuing Master's Degree in Biostatistics at University of Nairobi to improve my knowledge of the data world.
-- 📚 I love math, programming, data analytics, data science, AI and machine learning.
+- 📚 I love math, programming, data analytics, data science.
+- ✨ Career Interests: AI and machine learning.
  
 <!---
 Julie-Odhiambo/Julie-Odhiambo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
