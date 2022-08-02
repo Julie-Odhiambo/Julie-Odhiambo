@@ -7,7 +7,8 @@
 - 🌱 I’m currently taking the Data Analysis Career Track on DataCamp. Course contents: SQL, Power BI, Excel and Spreadsheets, Tableau, R, Python.
 - 💡 I am looking for a Data Analyst/BI Analyst role.
 - 📚 MSkills: SQL, PowerBI, Advanced Excel, R(Beginner)
-- 👋 How to reach me: [LinkedIn](https://www.linkedin.com/in/julie-analytics/), [NovyPro](https://www.novypro.com/profile_projects/julie-anyango-odhiambo)
+- 👋 How to reach me: [LinkedIn](https://www.linkedin.com/in/julie-analytics/)
+- View my Power BI dashboards and reports @[NovyPro](https://www.novypro.com/profile_projects/julie-anyango-odhiambo)
 
 #### ❤️ Fun facts about me:
 
