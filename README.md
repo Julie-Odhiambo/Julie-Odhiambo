@@ -7,7 +7,7 @@
   
   - ✨ Career Interests: AI and machine learning.
 
-- 💡 I am looking for a Data Analyst/BI Analyst role.
+- 💡 I am currently looking for a Data /BI Analyst role.
 - 🌱 I’m currently taking the Data Analysis Career Track on DataCamp. Course contents: SQL, Power BI, Excel and Spreadsheets, Tableau, R, Python.
 
 - 📚 Skills: 
