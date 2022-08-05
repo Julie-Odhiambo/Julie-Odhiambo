@@ -11,10 +11,10 @@
 - 🌱 I’m currently taking the Data Analysis Career Track on DataCamp. Course contents: SQL, Power BI, Excel and Spreadsheets, Tableau, R, Python.
 
 - 📚 Skills: SQL             
-             PowerBI, DAX             
-             Advanced Excel            
-             Python            
-             R(Beginner)
+                PowerBI, DAX             
+                Advanced Excel            
+                Python            
+                R(Beginner)
             
      Competencies:
             Statistics: Probability, Linear & Logistic regression model analyses, Time series analysis
