@@ -13,8 +13,7 @@
 - 📚 Skills: SQL             
                 PowerBI, DAX             
                 Advanced Excel            
-                Python            
-                R(Beginner)
+                Python
             
      Competencies:
             Statistics: Probability, Linear & Logistic regression model analyses, Time series analysis
