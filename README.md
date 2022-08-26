@@ -30,7 +30,7 @@
 
 #### Favorite quotes:
 - Knowledge is what you can remember after you have forgoten everything.
-- Without data, you're just somebody esle with an opinion.
+- Without data, you're just somebody else with an opinion.
 
  
 <!---
