@@ -3,7 +3,7 @@
 ### About Me
  
 
-  I’m Julie, a Biochemist by training with 3+ years experience as a transcriptionist and most recently pivoted to Data Analytics.
+  I’m Julie, a Biochemist by training with 4+ years experience in pharmaceutical sales and transcription, and most recently pivoted to Data Analytics.
   
   - ✨ Career Interests: AI and machine learning.
 
